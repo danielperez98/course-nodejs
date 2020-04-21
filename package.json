@@ -1,0 +1,15 @@
+{
+  "name": "coursenodejs",
+  "version": "0.0.1",
+  "description": "nodejs introduction",
+  "main": "src/index.js",
+  "scripts": {
+    "start" : "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanielP",
+  "license": "MIT",
+  "dependencies": {
+    "countries-list": "^2.5.4"
+  }
+}
